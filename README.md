@@ -4,10 +4,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hassan-582286251)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-1B1A17?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmd.hasn2411@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-7C5CFF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201027373612)
-![Status](https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge)
+</div>
+
+<p align="center">
+<a href="https://linkedin.com/in/mohamed-hassan-582286251"><img src="./assets/btn-linkedin.svg" width="31%" alt="LinkedIn" /></a> <a href="mailto:mhmd.hasn2411@gmail.com"><img src="./assets/btn-email.svg" width="31%" alt="Email" /></a> <a href="https://wa.me/201027373612"><img src="./assets/btn-whatsapp.svg" width="31%" alt="WhatsApp" /></a>
+</p>
+
+<div align="center">
 
 <br/>
 
@@ -29,23 +32,7 @@
 <img src="./assets/h-stack.svg" width="100%" alt="Tech stack" />
 <img src="./assets/stack.svg" width="100%" alt="Flutter, Dart, .NET, SQL, Firebase, GraphQL, SignalR, Bloc, Cubit, Provider, GetX, Clean Architecture, Melos, GitHub Actions" />
 
-<details>
-<summary><b>Full skills breakdown</b></summary>
-<br/>
-
-| Area | Skills |
-|---|---|
-| **Flutter & Dart** | Flutter SDK (Android, iOS, Web, Desktop) · Futures, Streams, Isolates · OOP, SOLID, Design Patterns · Custom Widgets |
-| **.NET & SQL** | .NET backend development · SQL databases |
-| **Architecture** | Clean Architecture · Repository Pattern · Dependency Injection · Monorepo (Melos) · Multi-package Modularization · Multi-tenant & SaaS · CRM Integration |
-| **State Management** | Bloc · Cubit · Provider · GetX |
-| **Backend & APIs** | REST · GraphQL · WebSockets · SignalR · Dio · OAuth2 · JWT · Pagination & Caching · Offline/Online Sync |
-| **Data & Cloud** | Firebase (Auth, Firestore, FCM, Crashlytics, Analytics) · SQLite · Hive · SharedPreferences · OneSignal · Google Maps SDK |
-| **Security** | Secure Coding · Token Handling & Storage · Data Encryption · Secure Auth Flows |
-| **DevOps & Release** | GitHub Actions CI/CD · Firebase App Distribution · App Store Connect · Google Play Console · iOS Code Signing · Staged Rollouts |
-| **Testing & Quality** | Unit / Widget / Integration Tests · Flutter DevTools Profiling · Code Reviews |
-
-</details>
+<img src="./assets/skills.svg" width="100%" alt="Skills: Flutter and Dart, .NET and SQL, Architecture, State Management, Backend and APIs, Data and Cloud, Security, DevOps and Release, Testing and Quality" />
 
 <br/>
 
@@ -61,14 +48,7 @@
 
 <img src="./assets/h-stats.svg" width="100%" alt="GitHub stats" />
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmdhasn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=F4F0E8&title_color=7C5CFF&text_color=1B1A17&icon_color=7C5CFF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhasn&layout=compact&hide_border=true&langs_count=6&bg_color=F4F0E8&title_color=7C5CFF&text_color=1B1A17" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=mhmdhasn&hide_border=true&background=F4F0E8&ring=7C5CFF&fire=7C5CFF&currStreakLabel=1B1A17&sideLabels=1B1A17&currStreakNum=1B1A17&sideNums=1B1A17&dates=7b766b" alt="GitHub streak" />
-
-</div>
+<img src="./assets/stats.svg" width="100%" alt="GitHub stats: stars, commits, pull requests, repos, contribution graph and top languages" />
 
 <br/>
 
@@ -79,10 +59,6 @@
 
 <img src="./assets/contact.svg" width="100%" alt="Open to senior Flutter roles, on-site or remote. mhmd.hasn2411@gmail.com, +20 102 737 3612, Cairo, Egypt" />
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hassan-582286251)
-[![Email](https://img.shields.io/badge/Email-mhmd.hasn2411%40gmail.com-1B1A17?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmd.hasn2411@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-7C5CFF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201027373612)
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/mohamed-hassan-582286251"><img src="./assets/btn-linkedin.svg" width="31%" alt="LinkedIn" /></a> <a href="mailto:mhmd.hasn2411@gmail.com"><img src="./assets/btn-email.svg" width="31%" alt="Email" /></a> <a href="https://wa.me/201027373612"><img src="./assets/btn-whatsapp.svg" width="31%" alt="WhatsApp" /></a>
+</p>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="96" viewBox="0 0 296 96" role="img">
+<style>
+text{font-family:'Google Sans','Product Sans','Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.pop{animation:pop .7s cubic-bezier(.2,.9,.3,1.2) both}
+@keyframes pop{from{opacity:0;transform:translateY(18px) scale(.97)}to{opacity:1;transform:none}}
+.bt{animation:fl 4.5s ease-in-out 0.6s infinite}@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}.ic{transform-box:fill-box;transform-origin:center;animation:ic 2.6s ease-in-out 0.6s infinite}@keyframes ic{0%,86%,100%{transform:rotate(0)}90%{transform:rotate(-12deg)}95%{transform:rotate(10deg)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="bt"><rect x="11" y="11" width="276" height="76" rx="38" fill="#1B1A17"/><rect x="6" y="6" width="276" height="76" rx="38" fill="#fff" stroke="#1B1A17" stroke-width="3"/><circle cx="52" cy="44" r="24" fill="#fff" stroke="#1B1A17" stroke-width="3"/><g class="ic"><rect x="41" y="35" width="22" height="16" rx="3" fill="none" stroke="#1B1A17" stroke-width="2.4"/><path d="M42 37 l10 8 l10 -8" fill="none" stroke="#1B1A17" stroke-width="2.4" stroke-linejoin="round"/></g><text x="92" y="40" font-size="20" font-weight="800" fill="#1B1A17">Email</text><text class="m" x="92" y="62" font-size="12" fill="#5b5649">mhmd.hasn2411@gmail.com</text></g>
+</svg>
