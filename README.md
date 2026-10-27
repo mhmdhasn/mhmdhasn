@@ -46,9 +46,6 @@
 
 <br/><br/>
 
-<img src="./assets/h-stats.svg" width="100%" alt="GitHub stats" />
-
-<img src="./assets/stats.svg" width="100%" alt="GitHub stats: stars, commits, pull requests, repos, contribution graph and top languages" />
 
 <br/>
 
