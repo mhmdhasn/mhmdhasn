@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img">
+<style>
+text{font-family:'Google Sans','Product Sans','Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.pop{animation:pop .7s cubic-bezier(.2,.9,.3,1.2) both}
+@keyframes pop{from{opacity:0;transform:translateY(18px) scale(.97)}to{opacity:1;transform:none}}
+.sq{stroke-dasharray:100;animation:sq 6s ease-in-out infinite}
+@keyframes sq{0%{stroke-dashoffset:100}30%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+.st{transform-box:fill-box;transform-origin:center;animation:sp 8s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="st"><path d="M24 14 l5 13 l13 5 l-13 5 l-5 13 l-5 -13 l-13 -5 l13 -5 z" fill="#7C5CFF" stroke="#1B1A17" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="64" y="44" font-size="32" font-weight="800" fill="#1B1A17" letter-spacing="-0.8">GitHub stats</text>
+<path class="sq" pathLength="100" transform="translate(66,56)" d="M0 0 q9 -9 18 0 t18 0 q9 -9 18 0 t18 0 q9 -9 18 0 t18 0 q9 -9 18 0 t18 0 q9 -9 18 0 t18 0 q9 -9 18 0 t18 0 " fill="none" stroke="#7C5CFF" stroke-width="4" stroke-linecap="round" clip-path="inset(-10px 620px -10px 0)"/>
+</svg>

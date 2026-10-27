@@ -9,31 +9,25 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-7C5CFF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201027373612)
 ![Status](https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge)
 
-</div>
-
 <br/>
 
-<div align="center">
 <img src="./assets/flow.svg" width="100%" alt="How working with Mohamed goes: prompt, plan, diff, publish" />
+
 </div>
 
 <br/>
 
-## About me
+<img src="./assets/h-about.svg" width="100%" alt="About me" />
+<img src="./assets/about.svg" width="100%" alt="Senior Flutter/Dart developer with 4+ years shipping production apps on Android, iOS and Web across fintech, healthcare, delivery and fan engagement. Flutter plus .NET and SQL." />
 
-Senior **Flutter/Dart** developer with **4+ years** shipping production apps on **Android, iOS and Web** across **fintech, healthcare, delivery and fan-engagement**. I pair Flutter with **.NET and SQL**, so I design clean client architecture *and* work comfortably with the backend and database behind it.
+<br/><br/>
 
-I own features **end-to-end**, from technical analysis to release and production support, and I enjoy mentoring junior developers through code reviews and tests.
+<img src="./assets/plans.svg" width="100%" alt="Find the Mohamed that fits your workflow: Flutter, Flutter + .NET, Release Captain" />
 
-<div align="center">
-<img src="./assets/plans.svg" width="100%" alt="Find the Mohamed that fits your workflow" />
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,firebase,graphql,sqlite,git,github,githubactions,postman,figma&perline=11" alt="stack" />
-
-</div>
+<img src="./assets/h-stack.svg" width="100%" alt="Tech stack" />
+<img src="./assets/stack.svg" width="100%" alt="Flutter, Dart, .NET, SQL, Firebase, GraphQL, SignalR, Bloc, Cubit, Provider, GetX, Clean Architecture, Melos, GitHub Actions" />
 
 <details>
 <summary><b>Full skills breakdown</b></summary>
@@ -53,33 +47,19 @@ I own features **end-to-end**, from technical analysis to release and production
 
 </details>
 
----
+<br/>
 
-## Featured projects
+<img src="./assets/h-projects.svg" width="100%" alt="Featured projects" />
+<img src="./assets/projects.svg" width="100%" alt="Al Nassr FC Fan App (50K+ downloads), Egyptian Expats Cars App, Tanaqol, Shefae, KNZ Restaurants" />
 
-| Project | What I built | Highlights |
-|---|---|---|
-| **Al Nassr FC Fan App**<br/>*Jumhoor Al Alami* | Match ticket booking with QR digital entry, "Fursan Points" loyalty program, event browsing linked to fan accounts | `50K+ downloads` |
-| **Egyptian Expats Cars App**<br/>*MCIT Egypt* | Government API integration with secure token auth, real-time customs clearance status, order tracking and fee calculation | `Gov APIs` `Secure Auth` |
-| **Tanaqol**<br/>*Investment Platform* | Investment charts, secure asset ownership transfer, identity verification flows for sensitive financial data | `Fintech` `Security` |
-| **Shefae**<br/>*Healthcare App* | Appointment booking and consultation flows | `Rating raised to 4.2 stars` |
-| **KNZ Restaurants**<br/>*Management App* | Financial reports, invoices, sales analytics, real-time order and payment notifications | `Real-time` `Analytics` |
+<br/><br/>
 
----
+<img src="./assets/h-experience.svg" width="100%" alt="Experience" />
+<img src="./assets/experience.svg" width="100%" alt="Senior Flutter Developer at Infosender and Perceivance; Flutter Developer at SafeHand, Banan and NG Company" />
 
-## Experience
+<br/><br/>
 
-| When | Role |
-|---|---|
-| **02/2026 – 07/2026** | **Senior Flutter Developer**, Infosender. "Kassab" rewards app, Clean Architecture, SignalR real-time chat, in-app store with payment APIs, step-tracking to points, OneSignal, GetX |
-| **12/2024 – 01/2026** | **Senior Flutter Developer**, Perceivance. Led a team shipping a Bloc/Cubit feature (**+28% engagement**), multi-vendor sales system (mobile + web dashboard), offline/online sync, GitHub Actions CI/CD and store releases |
-| **09/2024 – 12/2024** | **Flutter Developer**, SafeHand. Flutter apps and dashboards, API integration, restaurant ordering system |
-| **06/2023 – 03/2024** | **Flutter Developer**, Banan. Provider and Bloc, Firebase, payment gateways, APIs |
-| **06/2023 – 10/2023** | **Flutter Developer**, NG Company. UX/UI-focused apps, performance optimization, remote collaboration |
-
----
-
-## GitHub stats
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub stats" />
 
 <div align="center">
 
@@ -90,21 +70,19 @@ I own features **end-to-end**, from technical analysis to release and production
 
 </div>
 
----
+<br/>
 
-## Education & training
+<img src="./assets/h-education.svg" width="100%" alt="Education and training" />
+<img src="./assets/education.svg" width="100%" alt="Pre-Master's Computer Science (Cairo University), Bachelor Educational Technology (Fayoum University), ITI diploma, Route Academy and Udemy courses" />
 
-- **Pre-Master's, Computer Science**, Cairo University *(in progress)*
-- **Bachelor, Educational Technology**, Fayoum University *(2020 – 2024)*
-- **Professional Diploma, Information Technology**, ITI
-- **Mobile App Development with Flutter**, Route Academy · **UI/UX Design**, Udemy
+<br/><br/>
 
----
+<img src="./assets/contact.svg" width="100%" alt="Open to senior Flutter roles, on-site or remote. mhmd.hasn2411@gmail.com, +20 102 737 3612, Cairo, Egypt" />
 
 <div align="center">
 
-**Open to senior Flutter roles, on-site or remote.**
-
-Email: **mhmd.hasn2411@gmail.com** &nbsp;|&nbsp; Phone: **+20 102 737 3612** &nbsp;|&nbsp; **Cairo, Egypt**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hassan-582286251)
+[![Email](https://img.shields.io/badge/Email-mhmd.hasn2411%40gmail.com-1B1A17?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmd.hasn2411@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-7C5CFF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201027373612)
 
 </div>
